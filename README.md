@@ -16,18 +16,18 @@ pkg install git
 
 → ls
 
-→ الان صناعه لسته الباسوردات →↓
+→ (Now making six passwords →↓))
 
 → python list.py
 
-←هتكتب اسم اللسته pass.txt وهتحط المعلومات الي تعرفها على الضحيه زاآإۍ اسمه رقمه اي حاجه تعرفها عليه بعد متخلص من كتابه الاوامر اكتب save لحفظ اللسته ↓
+←You will write the name of the group, pass.txt, and you will put the information you know on the victim, Zaaۍ, whose name is his number. Anything you know about him after you get rid of writing the commands, type “save” to save the language ↓)
 
 → save
 
 → python2 gmail.py
 
-←حط 1 وبعدها انتر
+←Now put the name of the list pass.txt and then Inter
 
-←الان حط اسم اللسته pass.txt وبعدها انتر
+← Now put the mail that you want to 
 
-← الان حط البريد الي عاوز تخترقه وبعدها انتر وهيبدأ يخمن على اللسته اللي عملتها
+←hack and then enter and he will start guessing what you did

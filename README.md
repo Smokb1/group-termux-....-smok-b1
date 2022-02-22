@@ -6,7 +6,7 @@ pkg install git
 
 → pkg install python2
 
-↓اوامر تثبيت الاداه ↓
+Tool install commands ↓
 
 → git clone https://github.com/M-T-R/hack.MTR.git
 
